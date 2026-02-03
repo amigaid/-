@@ -233,12 +233,13 @@ h1 { font-size: 55px; font-weight: 700; margin-bottom: 20px; line-height: 1.1; }
     h1 { font-size: 38px; }
 }
 
-/* @media (max-width: 768px) {
+ @media (max-width: 768px) {
     .bg-video { display: none; }
     body {
         background: url('assets/bg-mobile.jpg') center/cover no-repeat;
-    } */
+    } 
 
     
 
 }
+
